@@ -1,0 +1,26 @@
+{
+  "COURSE": {
+    "definition": "The course as a whole, including its overall design, structure and the learner's general experience of taking it.",
+    "seeds": ["great course overall", "this course was disappointing", "highly recommend this course"]
+  },
+  "FACULTY": {
+    "definition": "The instructors, professors, teachers, mentors and teaching assistants who teach or support the course.",
+    "seeds": ["the professor is amazing", "instructor explains things well", "teacher seemed unprepared"]
+  },
+  "MATERIAL": {
+    "definition": "Course resources such as readings, slides, notes, handouts, textbooks and supplementary links.",
+    "seeds": ["reading materials were helpful", "slides are outdated", "great supplementary resources"]
+  },
+  "ASSIGNMENTS": {
+    "definition": "Graded or practice activities such as quizzes, exercises, programming assignments, projects and homework.",
+    "seeds": ["quizzes were too easy", "programming assignments were challenging", "final project was fun"]
+  },
+  "PRESENTATION": {
+    "definition": "The lecture videos and the way course content is presented and delivered, including pacing, audio and visuals.",
+    "seeds": ["lecture videos are engaging", "videos were too long", "poor audio quality"]
+  },
+  "GRADES": {
+    "definition": "Grading of learner work, including auto-grader results, peer review scores and the grades shown on certificates.",
+    "seeds": ["peer grading was unfair", "auto grader kept failing", "got my grade quickly"]
+  }
+}

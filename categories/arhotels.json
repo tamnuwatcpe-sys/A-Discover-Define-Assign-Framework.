@@ -1,0 +1,93 @@
+{
+ "HOTEL": {
+  "definition": "The hotel as a whole, covering overall opinions, general value for money, overall quality, cleanliness or comfort of the hotel in general, and other aspects not attributable to a more specific entity.",
+  "seeds": [
+   "فندق ممتاز بشكل عام",
+   "لا يستحق السعر",
+   "سأقيم هنا مرة أخرى"
+  ],
+  "seeds_en": [
+   "excellent hotel overall",
+   "not worth the price",
+   "will stay here again"
+  ]
+ },
+ "ROOMS": {
+  "definition": "The guest rooms or suites themselves, including their size, cleanliness, comfort, design, view, noise and price.",
+  "seeds": [
+   "الغرفة كانت واسعة",
+   "غرفة متسخة",
+   "إطلالة رائعة من غرفتنا"
+  ],
+  "seeds_en": [
+   "the room was spacious",
+   "dirty room",
+   "great view from our room"
+  ]
+ },
+ "ROOMS_AMENITIES": {
+  "definition": "Specific items and equipment inside the rooms, such as the bed, bathroom, shower, air conditioning, TV, minibar, furniture and in-room internet.",
+  "seeds": [
+   "سرير مريح",
+   "الدش كان معطلا",
+   "المكيف لم يعمل"
+  ],
+  "seeds_en": [
+   "comfortable bed",
+   "the shower was broken",
+   "air conditioning did not work"
+  ]
+ },
+ "FACILITIES": {
+  "definition": "Facilities of the hotel outside the rooms, such as the pool, gym, spa, lobby, restaurant premises, parking, elevators, beach area and public internet access.",
+  "seeds": [
+   "مسبح جميل",
+   "النادي الرياضي صغير",
+   "مواقف سيارات مجانية"
+  ],
+  "seeds_en": [
+   "nice swimming pool",
+   "the gym was small",
+   "free parking available"
+  ]
+ },
+ "SERVICE": {
+  "definition": "The service and staff of the hotel, including reception, check-in and check-out, housekeeping, room service, helpfulness, friendliness and professionalism of personnel.",
+  "seeds": [
+   "موظفون ودودون جدا",
+   "تسجيل الوصول استغرق وقتا طويلا",
+   "موظف استقبال متعاون"
+  ],
+  "seeds_en": [
+   "very friendly staff",
+   "check-in took forever",
+   "helpful receptionist"
+  ]
+ },
+ "LOCATION": {
+  "definition": "The location of the hotel, including its neighbourhood, proximity to attractions, shops, beach or transport, accessibility and the surrounding view.",
+  "seeds": [
+   "قريب من البلدة القديمة",
+   "موقع رائع بالقرب من الشاطئ",
+   "بعيد عن كل شيء"
+  ],
+  "seeds_en": [
+   "close to the old city",
+   "great location near the beach",
+   "far from everything"
+  ]
+ },
+ "FOOD_DRINKS": {
+  "definition": "The food and beverages offered by the hotel, such as breakfast, buffet, restaurant meals, drinks and their quality, variety and price.",
+  "seeds": [
+   "بوفيه إفطار لذيذ",
+   "خيارات طعام محدودة",
+   "المشروبات باهظة الثمن"
+  ],
+  "seeds_en": [
+   "delicious breakfast buffet",
+   "limited food options",
+   "drinks were overpriced"
+  ]
+ }
+}

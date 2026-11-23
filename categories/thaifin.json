@@ -1,0 +1,130 @@
+{
+ "Brand": {
+  "definition": "The image of the company, its brands or products, and marketing activities such as advertising, public relations, marketing awards, sales promotion and sponsorship.",
+  "seeds": [
+   "ภาพลักษณ์ที่ดีของบริษัท",
+   "กิจกรรมส่งเสริมการขายและการโฆษณา",
+   "ได้รับรางวัลด้านการตลาด"
+  ]
+ },
+ "Product/Service": {
+  "definition": "The company's products or services: launches, market tests, upgrades, downgrades, recalls or approvals, and business cooperation such as licensing, alliances, partnerships, MOUs and joint ventures.",
+  "seeds": [
+   "เปิดตัวผลิตภัณฑ์ใหม่",
+   "ลงนามบันทึกความเข้าใจความร่วมมือทางธุรกิจ",
+   "ร่วมทุนกับพันธมิตร"
+  ]
+ },
+ "Environment": {
+  "definition": "The company's environmental performance: environmental policy, ecology, global warming and climate change, waste and pollution, and environmental CSR activities.",
+  "seeds": [
+   "ลดการปล่อยก๊าซเรือนกระจก",
+   "การจัดการของเสียและมลพิษ",
+   "นโยบายด้านสิ่งแวดล้อม"
+  ]
+ },
+ "Social&People": {
+  "definition": "Society and people: employment, hiring or layoffs, employee compensation, changes of executives such as the CEO, strikes, other labour issues, and social CSR activities concerning employees, customers, communities or other stakeholders.",
+  "seeds": [
+   "การพัฒนาศักยภาพพนักงาน",
+   "ค่าตอบแทนและสวัสดิการพนักงาน",
+   "กิจกรรมเพื่อชุมชนและสังคม"
+  ]
+ },
+ "Governance": {
+  "definition": "Corporate governance: changes to the board of directors, governance policies for the company and its subsidiaries, transparency, ethics and oversight of management.",
+  "seeds": [
+   "การเปลี่ยนแปลงคณะกรรมการบริษัท",
+   "นโยบายการกำกับดูแลกิจการที่ดี",
+   "ความโปร่งใสและจริยธรรมทางธุรกิจ"
+  ]
+ },
+ "Economics": {
+  "definition": "Macroeconomic conditions that may affect the company: national and global economic conditions, economic and trade policies such as FTAs, indicators such as GDP, interest rates, inflation, unemployment and exchange rates, and economic trends in the industry, country or world.",
+  "seeds": [
+   "ภาวะเศรษฐกิจชะลอตัว",
+   "อัตราดอกเบี้ยและอัตราแลกเปลี่ยน",
+   "การเติบโตของผลิตภัณฑ์มวลรวมในประเทศ"
+  ]
+ },
+ "Political": {
+  "definition": "Politics: political change such as elections, coups, political movements, unrest or war, government policy and tax policy.",
+  "seeds": [
+   "ความไม่สงบทางการเมือง",
+   "นโยบายของรัฐบาล",
+   "การเปลี่ยนแปลงนโยบายภาษี"
+  ]
+ },
+ "Legal": {
+  "definition": "Legal disputes and legal decisions: investigations, allegations, lawsuits, prosecution, fraud, money laundering, settlements, damages, court rulings, laws and other legal issues.",
+  "seeds": [
+   "ถูกฟ้องร้องดำเนินคดี",
+   "คำพิพากษาของศาล",
+   "การปฏิบัติตามกฎหมายและข้อบังคับ"
+  ]
+ },
+ "Dividend": {
+  "definition": "Dividends paid to shareholders in cash, shares or other assets, including dividend forecasts, reports and announcements.",
+  "seeds": [
+   "จ่ายเงินปันผลในอัตราหุ้นละ",
+   "นโยบายการจ่ายเงินปันผล",
+   "ประกาศจ่ายปันผลเป็นหุ้น"
+  ]
+ },
+ "Investment": {
+  "definition": "Investment: capital expenditure in the company, subsidiaries, associates or branches, in production facilities, products or services, and in research and development, and events concerning factories, offices, buildings, stores, branches, warehouses or other real estate, excluding mergers and acquisitions.",
+  "seeds": [
+   "ลงทุนขยายกำลังการผลิต",
+   "ก่อสร้างโรงงานแห่งใหม่",
+   "งบลงทุนด้านการวิจัยและพัฒนา"
+  ]
+ },
+ "M&A": {
+  "definition": "Mergers and acquisitions: two or more companies merging into a new company, or one company buying part or all of another company's shares, assets or business units.",
+  "seeds": [
+   "เข้าซื้อกิจการ",
+   "ควบรวมกิจการ",
+   "ซื้อหุ้นทั้งหมดของบริษัทอื่น"
+  ]
+ },
+ "Profit/Loss": {
+  "definition": "The company's operating results: revenue, sales, cost of goods sold, expenses, financial figures and ratios, net profit or loss, and changes in the company's share price.",
+  "seeds": [
+   "รายได้จากการขายเพิ่มขึ้น",
+   "กำไรสุทธิลดลง",
+   "ต้นทุนขายและค่าใช้จ่าย"
+  ]
+ },
+ "Rating": {
+  "definition": "Credit ratings of the company or its debt instruments by rating agencies such as TRIS and Fitch, and analysts' recommendations such as buy, sell or hold, including changes to them.",
+  "seeds": [
+   "อันดับความน่าเชื่อถือจากทริสเรทติ้ง",
+   "ฟิทช์ปรับอันดับเครดิต",
+   "นักวิเคราะห์แนะนำให้ซื้อ"
+  ]
+ },
+ "Financing": {
+  "definition": "Financing: loans and syndicated loans, bond issues, capital increases or reductions, share repurchases, lending between related companies or subsidiaries, IPOs, private placements, tender offers and funding from venture capital or angel investors.",
+  "seeds": [
+   "การออกหุ้นกู้",
+   "เงินกู้ยืมจากสถาบันการเงิน",
+   "การเพิ่มทุนจดทะเบียน"
+  ]
+ },
+ "Technology": {
+  "definition": "Technological change: information technology, automation, AI and other innovation, technology access, licensing, patents and intellectual property.",
+  "seeds": [
+   "การนำเทคโนโลยีดิจิทัลมาใช้",
+   "ระบบสารสนเทศและระบบอัตโนมัติ",
+   "สิทธิบัตรและทรัพย์สินทางปัญญา"
+  ]
+ },
+ "Others": {
+  "definition": "Other topics or changes not covered by the categories above, such as natural disasters or epidemics.",
+  "seeds": [
+   "ภัยธรรมชาติและน้ำท่วม",
+   "การแพร่ระบาดของโรค",
+   "เหตุการณ์ที่ไม่คาดคิด"
+  ]
+ }
+}

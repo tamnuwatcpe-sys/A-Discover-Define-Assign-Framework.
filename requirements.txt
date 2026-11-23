@@ -1,0 +1,16 @@
+# Versions used for the paper (Python 3.12.7, CUDA 12.6).
+numpy==2.5.4
+pandas==3.0.6
+pyarrow==26.0.0
+scipy==1.18.1
+scikit-learn==1.9.1
+matplotlib==3.11.2
+tabulate==0.10.0
+torch==2.14.1
+transformers==5.19.0
+accelerate==1.15.0
+sentence-transformers==6.1.0
+bertopic==0.17.4
+umap-learn==0.5.12
+hdbscan==0.8.44
+pythainlp==5.4.0

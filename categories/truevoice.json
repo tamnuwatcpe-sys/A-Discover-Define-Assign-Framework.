@@ -1,0 +1,186 @@
+{
+ "service": {
+  "definition": "Value-added services and subscriptions such as SMS content services or star-code services: how to subscribe, use or cancel them.",
+  "seeds": [
+   "ยกเลิกบริการข้อความที่สมัครไว้",
+   "สมัครบริการเสริม",
+   "กดดอกจันสมัครบริการ"
+  ]
+ },
+ "package": {
+  "definition": "The customer's mobile plan or package (prepaid or postpaid, current plan, validity period, data speed of the plan), including buying or changing a package.",
+  "seeds": [
+   "อยากเปลี่ยนแพ็กเกจ",
+   "แพ็กเกจที่ใช้อยู่ตอนนี้คืออะไร",
+   "สมัครแพ็กเกจเน็ตรายเดือน"
+  ]
+ },
+ "internet": {
+  "definition": "Mobile internet, data and Wi-Fi connectivity: whether the internet works, its settings, codes and passwords.",
+  "seeds": [
+   "เน็ตใช้ไม่ได้",
+   "ตั้งค่าอินเทอร์เน็ต",
+   "รหัสไวไฟ"
+  ]
+ },
+ "balance": {
+  "definition": "The amount the customer owes or has outstanding on the account and how much has to be paid.",
+  "seeds": [
+   "ยอดค้างชำระเท่าไหร่",
+   "ต้องจ่ายทั้งหมดเท่าไหร่",
+   "เช็คยอดหนี้"
+  ]
+ },
+ "promotion": {
+  "definition": "Promotional offers and campaigns: what promotions exist and how to sign up for them.",
+  "seeds": [
+   "มีโปรอะไรบ้าง",
+   "สมัครโปรโมชั่น",
+   "โปรโทรฟรี"
+  ]
+ },
+ "suspend": {
+  "definition": "The number or service being suspended, barred or cut off, and getting it working again after suspension.",
+  "seeds": [
+   "เบอร์โดนระงับ",
+   "ซิมโดนตัดสัญญาณ",
+   "เปิดสัญญาณคืน"
+  ]
+ },
+ "payment": {
+  "definition": "Making payments or top-ups: paying bills, top-up cards, payment channels, and whether a payment or top-up went through.",
+  "seeds": [
+   "จ่ายบิลแล้วแต่ยอดไม่เข้า",
+   "เติมเงินไม่ได้",
+   "ชำระค่าบริการช่องทางไหน"
+  ]
+ },
+ "phone_issues": {
+  "definition": "Problems making or receiving calls or messages on the mobile line or SIM.",
+  "seeds": [
+   "โทรออกไม่ได้",
+   "รับสายไม่ได้",
+   "ส่งข้อความไม่ได้"
+  ]
+ },
+ "bill": {
+  "definition": "Charges on the invoice: unexpected or disputed charges and how the bill amount was calculated.",
+  "seeds": [
+   "ค่าบริการในบิลสูงผิดปกติ",
+   "ทำไมบิลเดือนนี้แพง",
+   "โดนเก็บเงินที่ไม่ได้ใช้"
+  ]
+ },
+ "detail": {
+  "definition": "Details of a specific number or account, such as its network, activation date or the plan it is on.",
+  "seeds": [
+   "เบอร์นี้เปิดใช้งานวันไหน",
+   "เบอร์นี้ใช้ระบบอะไร",
+   "ขอรายละเอียดของเบอร์"
+  ]
+ },
+ "information": {
+  "definition": "General information requests not about a specific charge or service, such as repair status, whether a number is on the network, or reusing a cancelled number.",
+  "seeds": [
+   "สอบถามสถานะการซ่อม",
+   "เบอร์นี้เป็นเครือข่ายไหน",
+   "ขอเบอร์เดิมที่ยกเลิกไปกลับมาใช้"
+  ]
+ },
+ "mobile_setting": {
+  "definition": "Handset settings and device functions, such as connecting the phone to a computer, picture messages, firmware or restoring the device.",
+  "seeds": [
+   "ต่อมือถือกับคอมพิวเตอร์",
+   "ส่งข้อความรูปภาพไม่ได้",
+   "อัปเดตเฟิร์มแวร์เครื่อง"
+  ]
+ },
+ "truemoney": {
+  "definition": "The TrueMoney e-wallet: topping it up, its passwords and money moved into it.",
+  "seeds": [
+   "เติมเงินเข้าทรูมันนี่",
+   "ลืมรหัสทรูมันนี่",
+   "โอนเงินเข้าวอลเล็ท"
+  ]
+ },
+ "nontruemove": {
+  "definition": "Services other than the mobile network, such as the home fixed-line phone, ADSL home internet or other non-mobile products.",
+  "seeds": [
+   "โทรศัพท์บ้านเสีย",
+   "เน็ตบ้านใช้ไม่ได้",
+   "สอบถามบริการโทรศัพท์บ้าน"
+  ]
+ },
+ "roaming": {
+  "definition": "International roaming: using the phone or data abroad, roaming rates and turning roaming on or off.",
+  "seeds": [
+   "ไปต่างประเทศใช้เน็ตได้ไหม",
+   "เปิดโรมมิ่ง",
+   "ค่าโรมมิ่งเท่าไหร่"
+  ]
+ },
+ "lost_stolen": {
+  "definition": "A lost or stolen handset or SIM and what to do about it.",
+  "seeds": [
+   "โทรศัพท์หาย",
+   "ซิมหาย",
+   "เครื่องโดนขโมย"
+  ]
+ },
+ "idd": {
+  "definition": "Calling abroad (international direct dialling): enabling it and its charges.",
+  "seeds": [
+   "โทรไปต่างประเทศ",
+   "เปิดบริการโทรต่างประเทศ",
+   "ค่าโทรต่างประเทศนาทีละเท่าไหร่"
+  ]
+ },
+ "credit": {
+  "definition": "The account's credit or spending limit and controlling how much can be used.",
+  "seeds": [
+   "ขอเพิ่มวงเงิน",
+   "วงเงินใช้งานเท่าไหร่",
+   "จำกัดวงเงินการใช้"
+  ]
+ },
+ "ringtone": {
+  "definition": "Ringback tones (the music callers hear while waiting): setting, changing or cancelling them.",
+  "seeds": [
+   "ยกเลิกเสียงรอสาย",
+   "เปลี่ยนเพลงรอสาย",
+   "ตั้งเสียงรอสาย"
+  ]
+ },
+ "loyalty_card": {
+  "definition": "The operator's loyalty membership cards and their privileges, applying for, transferring or replacing them.",
+  "seeds": [
+   "สมัครบัตรสมาชิก",
+   "บัตรสมาชิกหาย",
+   "สิทธิพิเศษของบัตรสมาชิก"
+  ]
+ },
+ "balance_minutes": {
+  "definition": "The remaining call minutes or remaining prepaid credit on the number.",
+  "seeds": [
+   "เงินในเบอร์เหลือเท่าไหร่",
+   "เช็คนาทีคงเหลือ",
+   "เงินในระบบเหลือเท่าไหร่"
+  ]
+ },
+ "rate": {
+  "definition": "Per-unit rates for calls, messages and usage, and how usage is charged.",
+  "seeds": [
+   "โทรนาทีละกี่บาท",
+   "ค่าส่งข้อความครั้งละเท่าไหร่",
+   "คิดค่าโทรยังไง"
+  ]
+ },
+ "iservice": {
+  "definition": "The operator's self-service app or website for checking and managing the account.",
+  "seeds": [
+   "เข้าแอปเช็คยอดไม่ได้",
+   "สมัครใช้งานเว็บไซต์",
+   "ใช้แอปจัดการบัญชี"
+  ]
+ }
+}

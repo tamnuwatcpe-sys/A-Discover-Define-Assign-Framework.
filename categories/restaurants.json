@@ -1,0 +1,26 @@
+{
+  "RESTAURANT": {
+    "definition": "The restaurant as a whole, covering overall opinions, the general price or value of the place, and miscellaneous aspects (e.g., reservations, menu variety, portions policy) not attributable to another entity.",
+    "seeds": ["best restaurant in town", "way too overpriced overall", "will definitely come back"]
+  },
+  "FOOD": {
+    "definition": "The food served, whether a specific dish or food in general, including its taste, quality, style/options, portion size and price.",
+    "seeds": ["the pasta was delicious", "sushi was not fresh", "tiny portions for the price"]
+  },
+  "DRINKS": {
+    "definition": "The beverages served (wine, beer, cocktails, coffee, soft drinks), including their quality, style/options and price.",
+    "seeds": ["great wine list", "cocktails were watered down", "drinks are pricey"]
+  },
+  "SERVICE": {
+    "definition": "The service and staff, including attentiveness, friendliness, speed, professionalism of waiters, hosts and other personnel, and the handling of orders and reservations.",
+    "seeds": ["our waiter was very attentive", "rude and slow service", "staff was friendly"]
+  },
+  "AMBIENCE": {
+    "definition": "The atmosphere and surroundings of the restaurant, such as decor, music, noise level, lighting, seating, space and cleanliness of the setting.",
+    "seeds": ["cozy and romantic atmosphere", "way too loud inside", "nice decor"]
+  },
+  "LOCATION": {
+    "definition": "The location of the restaurant, including its neighborhood, convenience of access, and the view or surroundings outside it.",
+    "seeds": ["great view of the river", "convenient location near subway", "hard to find spot"]
+  }
+}

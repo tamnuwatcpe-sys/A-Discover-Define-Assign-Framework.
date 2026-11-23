@@ -1,0 +1,90 @@
+{
+  "LAPTOP": {
+    "definition": "The laptop as a whole, covering general opinions on its overall quality, price, design, performance, portability, usability and how well it meets the user's needs.",
+    "seeds": ["great laptop for the price", "looks sleek and lightweight", "worst computer I've ever owned"]
+  },
+  "DISPLAY": {
+    "definition": "The laptop's screen and its properties, such as resolution, brightness, colors, viewing angles, glare and size.",
+    "seeds": ["the screen is gorgeous", "colors are bright and crisp", "display has terrible glare"]
+  },
+  "KEYBOARD": {
+    "definition": "The laptop's keyboard and its keys, including layout, feel, key travel and backlighting.",
+    "seeds": ["keyboard feels great to type", "keys are too small", "backlit keys are nice"]
+  },
+  "MOUSE": {
+    "definition": "The pointing devices of the laptop, mainly the touchpad/trackpad and its buttons, including any external mouse that comes with it.",
+    "seeds": ["the trackpad is very responsive", "touchpad is too sensitive", "mouse buttons are stiff"]
+  },
+  "MOTHERBOARD": {
+    "definition": "The laptop's motherboard (main board/logic board) and failures attributed to it.",
+    "seeds": ["the motherboard died", "had to replace the motherboard", "logic board failed after months"]
+  },
+  "CPU": {
+    "definition": "The laptop's processor, including its speed, model and processing power.",
+    "seeds": ["the processor is really fast", "i7 handles everything easily", "cpu is too slow"]
+  },
+  "FANS_COOLING": {
+    "definition": "The laptop's fans and cooling system, including noise, heat dissipation and overheating.",
+    "seeds": ["fan is very loud", "gets really hot underneath", "runs cool and quiet"]
+  },
+  "PORTS": {
+    "definition": "The laptop's ports and connectors, such as USB, HDMI, Ethernet, card readers and headphone jacks, including their number and placement.",
+    "seeds": ["plenty of USB ports", "no HDMI port", "only two usb ports"]
+  },
+  "MEMORY": {
+    "definition": "The laptop's RAM, including its amount, speed and upgradability.",
+    "seeds": ["8GB of RAM is plenty", "needs more memory", "easy to upgrade the RAM"]
+  },
+  "POWER_SUPPLY": {
+    "definition": "The laptop's power supply unit, i.e. the charger, AC adapter and power cord.",
+    "seeds": ["the power cord broke", "charger stopped working", "power adapter is bulky"]
+  },
+  "OPTICAL_DRIVES": {
+    "definition": "The laptop's optical drive (CD/DVD/Blu-ray drive) and its ability to read or burn discs.",
+    "seeds": ["no cd drive", "dvd drive stopped working", "burns DVDs without problems"]
+  },
+  "BATTERY": {
+    "definition": "The laptop's battery, including battery life, charging time and battery durability.",
+    "seeds": ["battery life is amazing", "battery lasts 8 hours", "battery died after a year"]
+  },
+  "GRAPHICS": {
+    "definition": "The laptop's graphics card/GPU and graphics performance, e.g. for gaming or video.",
+    "seeds": ["graphics card handles games well", "integrated graphics are weak", "great graphics performance"]
+  },
+  "HARD_DISC": {
+    "definition": "The laptop's storage drive (HDD or SSD), including its capacity, speed and failures.",
+    "seeds": ["hard drive crashed", "plenty of storage space", "the SSD makes it fast"]
+  },
+  "MULTIMEDIA_DEVICES": {
+    "definition": "The laptop's built-in multimedia devices such as speakers, microphone, webcam and audio/sound components.",
+    "seeds": ["speakers sound great", "webcam quality is poor", "sound is too quiet"]
+  },
+  "HARDWARE": {
+    "definition": "The laptop's hardware in general or hardware components not covered by other entities (e.g. hinges, casing, wireless card, buttons).",
+    "seeds": ["hardware is solid", "the hinge broke", "wireless card keeps dropping"]
+  },
+  "SOFTWARE": {
+    "definition": "Software and applications on the laptop other than the operating system, including preinstalled programs, bloatware, drivers and productivity suites.",
+    "seeds": ["comes with lots of bloatware", "iPhoto is great", "preinstalled software is useless"]
+  },
+  "OS": {
+    "definition": "The laptop's operating system (e.g. Windows, Mac OS, Linux) and its usability, stability and features.",
+    "seeds": ["Windows 8 is awful", "love the Mac OS", "OS is easy to use"]
+  },
+  "WARRANTY": {
+    "definition": "The warranty of the laptop, including its coverage, duration and extended warranty plans.",
+    "seeds": ["still under warranty", "warranty didn't cover it", "bought the extended warranty"]
+  },
+  "SHIPPING": {
+    "definition": "The shipping and delivery of the laptop, including delivery speed, packaging and condition on arrival.",
+    "seeds": ["shipping was fast", "arrived damaged", "took weeks to arrive"]
+  },
+  "SUPPORT": {
+    "definition": "The technical and customer support for the laptop, including service centers, phone support, repairs and staff helpfulness.",
+    "seeds": ["customer service was terrible", "tech support was very helpful", "sent it in for repair twice"]
+  },
+  "COMPANY": {
+    "definition": "The company or brand that manufactures the laptop and opinions about it in general.",
+    "seeds": ["never buying Toshiba again", "Apple makes quality products", "HP has gone downhill"]
+  }
+}
